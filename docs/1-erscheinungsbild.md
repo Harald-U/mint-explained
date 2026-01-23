@@ -19,7 +19,9 @@ Das Hintergrundbild des Schreibtisches, der Arbeitsfläche, andern. Es gibt eine
 
 ## 3. Schriftauswahl
 
-Schriften ändern, in den Menüs, der Fensterleiste, in Dokumenten, usw. Betrifft nicht die Schriften in Dokumenten von Anwendungen wie LibreOffice, die werden dort geändert.
+Schriften ändern, in den Menüs, der Fensterleiste, in Dokumenten, usw. 
+
+Betrifft nicht die Schriften in Dokumenten von Anwendungen wie LibreOffice, die werden dort geändert.
 
 <img src="{{ site.baseurl }}/assets/images/erscheinungsbild/schriftauswahl.png" alt="Schriftauswahl" width="400">
 
@@ -34,6 +36,6 @@ Ein Thema (engl. Theme) bestimmt das Aussehen der Anwendungsfenster, der Knöpfe
 Das Linux Mint-Team hat im Laufe der Zeit drei eigene Stile eines Themes entwickelt, Mint-X (das älteste), Mint-L und Mint-Y (das aktuelle). Jedes dieser Themes besitzt die Akzentfarbe pfefferminzgrün (Mint = Minze …), es gibt aber noch eine ganze Reihe weiterer Farben: rot, verschiedene Blautöne, usw. Es gibt sie in hell (z.B. Mint-Y-Aqua) oder dunkel (Mint-Y-Dark-Aqua).
 Es gibt einen vereinfachten Einstellungsdialog oder einen erweiterten Dialog mit mehr Möglichkeiten. Im erweiterten Dialog kann man auch noch zusätzliche Themes herunterladen und installieren (Hinzufügen/Entfernen, eher fortgeschritten!) und weitere Einstellungen vornehmen (fortgeschritten).
 
-<img src="{{ site.baseurl }}assets/images/erscheinungsbild/themen.png" alt="Themes" width="400">
+<img src="{{ site.baseurl }}/assets/images/erscheinungsbild/themen.png" alt="Themes" width="400">
 
 Hier kann man sich nach Herzenslust austoben, man kann eigentlich nichts kaputt machen, nur den Überblick, was man schon alles ausprobiert hat, kann man verlieren :-)
