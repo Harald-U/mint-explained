@@ -9,6 +9,14 @@ layout: default
 
 Ist für die Optik von Linux Mint zuständig.
 
+{: .no_toc }
+
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## 1. Effekte
 
 Fortgeschritten! Verschiedene Schreibtisch- und Fenstereffekte.
