@@ -17,13 +17,13 @@ Alles Einstellungen für fortgeschrittene Anwender.
 
 Hier finden sich alle möglichen Einstellungen für Menschen mit Beeinträchtigungen: 
 
-<img src="{{ site.baseurl }}/assets/einstellungen/barrierefreiheit.png" alt="Barrierefreiheit" width="400">
+<img src="{{ site.baseurl }}/assets/images/einstellungen/barrierefreiheit.png" alt="Barrierefreiheit" width="600">
 
 ## 3. Bevorzugte Anwendungen
 
 Die Standard- oder Default Anwendungen. 
 
-<img src="{{ site.baseurl }}/assets/einstellungen/default_apps.png" alt="Default Apps" width="400">
+<img src="{{ site.baseurl }}/assets/images/einstellungen/default_apps.png" alt="Default Apps" width="400">
 
 Interessant z.B. wenn zusätzlich zu Firefox ein anderer Browser installiert ist, kann festgelegt werden, welcher von beiden bei Klick auf einen Link geöffnet wird. Mit welchem Programm werden MP3, Videos abgespielt, Bilder angezeigt, usw.
 
@@ -34,7 +34,7 @@ Der Bildschirmschoner ist auch ein Sperrbildschirm. Standardeinstellung: nach 15
 ## 5. Datenschutz
 
 Klingt nach mehr, als es ist … im Startmenü und im Dateimanager Nemo gibt es eine Rubrik „Kürzlich geöffnete Dateien“. Das ist etwa vergleichbar mit der Historie im Browser. Wenn man das nicht will, einfach ausschalten.
-Den zweiten Punkt „Internetverbindung“ sollte man anlassen, vor allem wenn man ein Notebook hat und öfter unterwegs ist. Die im Hilfetext erwähnten Captive-Portale werden z.B. von öffentlichen WLANs (im Zug, im Hotel, usw.) verwendet, um Zustimmung zu den AGBs zu bekommen … https://de.wikipedia.org/wiki/Captive_Portal
+Den zweiten Punkt „Internetverbindung“ sollte man anlassen, vor allem wenn man ein Notebook hat und öfter unterwegs ist. Die im Hilfetext erwähnten [Captive-Portale](https://de.wikipedia.org/wiki/Captive_Portal){:target="_blank"} werden z.B. von öffentlichen WLANs (im Zug, im Hotel, usw.) verwendet, um Zustimmung zu den AGBs zu bekommen … 
 
 ## 6. Datum und Zeit
 
@@ -52,7 +52,7 @@ Hier können Touchpad- und/oder Touchscreen-Gesten für 2, 3, 4 Finger aktiviert
 
 Falls man einen der entsprechenden Dienste verwendet, können hier die Online-Accounts eingetragen werden. Z.T verwendet die entsprechende Anwendung wie z.B. der Nextcloud-Desktop-Client die Anwendung Internet-Konten, um das Nextcloud-Anmeldekonto zu speichern.
 
-<img src="{{ site.baseurl }}/assets/einstellungen/online_accounts.png" alt="Default Apps" width="400">
+<img src="{{ site.baseurl }}/assets/images/einstellungen/online_accounts.png" alt="Default Apps" width="250">
 
 Sehr speziell und eher für fortgeschrittene Anwender.
 
@@ -80,7 +80,7 @@ Auf dem Schreibtisch / der Arbeitsfläche kann man sich zusätzliche Icons anzei
 
 Bei der Installation von Mint wird festgelegt, in welcher Sprache Mint angezeigt werden soll und welche Sprach- bzw. landesspezifischen Einstellungen gelten sollen (z.B. Zeitformat, Währung, usw.). In dieser Anwendung können zusätzliche Sprachen installiert und Einstellungen verändert werden.
 
-<img src="{{ site.baseurl }}/assets/einstellungen/sprache.png" alt="Sprache" width="400">
+<img src="{{ site.baseurl }}/assets/images/einstellungen/sprache.png" alt="Sprache" width="400">
 
 ## 16. Startprogramme
 
