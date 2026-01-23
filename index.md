@@ -1,10 +1,9 @@
 ---
 title: Home
 layout: home
-nav_order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/images/linuxcafe_kaltental.png" alt="Logo Linuxcafe Stuttgart" width="500">
+<img src="{{ site.baseurl }}/assets/images/linuxcafe_kaltental.png" alt="Logo Linuxcafe Stuttgart" width="150">
 
 
 # Linux Mint und Linuxcafe

@@ -1,7 +1,7 @@
 ---
 title: Linux Mint Systemeinstellungen
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 
 # Linux Mint Systemeinstellungen erklärt
