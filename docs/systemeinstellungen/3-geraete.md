@@ -27,7 +27,7 @@ Im Beispielbild ist z.B. der rote Bildschirm 1 der im Notebook eingebaute, der B
 
 Einrichten und Konfigurieren von Druckern.
 
-Drucker, die nicht zu alt sind und vor allem Netzwerkdrucker beherrschen meistens Druckverfahren wie Apple AirPrint oder das in Android verwendete Mopria der Mobile Printing Alliance. Diese Drucker benötigen keine installierten Druckertreiber, sie arbeiten [driverless](https://openprinting.github.io/driverless/){:target="_blank"}, also treiberlos und zwar als Netzwerkdrucker und per USB-Kabel. Linux Mint bzw. das Drucksystem CUPS in Linux Mint sieht diese Drucker und konfiguriert sie, sobald sie eingeschaltet werden, das dauert um die 30 Sekunden. Wird ein Drucker ausgeschaltet, verschwindet der Druckereintrag in Linux Mint nach einer kurzen Zeit wieder.
+Drucker, die nicht zu alt sind, und vor allem Netzwerkdrucker beherrschen meistens Druckverfahren wie Apple AirPrint oder das in Android verwendete Mopria der Mobile Printing Alliance. Diese Drucker benötigen keine installierten Druckertreiber, sie arbeiten [driverless](https://openprinting.github.io/driverless/){:target="_blank"}, also treiberlos und zwar als Netzwerkdrucker und per USB-Kabel. Linux Mint bzw. das Drucksystem CUPS in Linux Mint sieht diese Drucker (wenn sie im selben Netzwerk sind) und konfiguriert sie, sobald sie eingeschaltet werden, das dauert um die 30 - 60 Sekunden. Wird ein Drucker ausgeschaltet, verschwindet der Druckereintrag in Linux Mint nach kurzer Zeit wieder.
 
 <img src="{{ site.baseurl }}/assets/images/geraete/drucker.png" alt="Drucker" width="400">
 
@@ -63,7 +63,7 @@ Regler für Lautstärke (2) und Balance (3).
 
 Bei verschiedenen Ausgabegeräten (z.B. interne Lautsprecher, Bluetooth-Lautsprecher, per HDMI angeschlossener Fernseher) wird hier der Ausgabekanal (1) bzw. das Profil (Bluetooth) (2) ausgewählt. 
 
-Übersteuerung (4) kann eingeschaltet werden, wenn der Kanal nicht laut genug eingestellt werden kann.
+Übersteuerung (4) kann eingeschaltet werden, wenn der Kanal nicht laut genug eingestellt werden kann, dann geht der Lautstärkeregler über 100 %.
 
 **Eingang:**
 
@@ -91,7 +91,7 @@ Außerdem kann man eigene Audiodateien hinterlegen und testen (über den Abspiel
 
 Alle möglichen Einstellungen für die Maus: Linkshänder, Geschwindigkeit - Mauszeiger ist zu schnell / zu langsam, Größe des Mauszeigers und einige mehr.
 
-<img src="{{ site.baseurl }}/assets/images/geraete/maus.png" alt="Maus / Touchpad" width="400">
+<img src="{{ site.baseurl }}/assets/images/geraete/maus.png" alt="Maus / Touchpad" width="600">
 
 Ähnliches für das Touchpad. 
 
