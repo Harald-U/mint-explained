@@ -6,10 +6,10 @@ layout: default
 ---
 
 # Gruppe „Erscheinungsbild“ 
+{: .no_toc }
 
 Ist für die Optik von Linux Mint zuständig.
 
-{: .no_toc }
 
 ## Inhalt
 {: .no_toc .text-delta }
