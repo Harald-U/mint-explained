@@ -1,7 +1,7 @@
 ---
 title: Linux Mint Systemeinstellungen
+parent: Home
 layout: default
-nav_order: 1
 ---
 
 # Linux Mint Systemeinstellungen erklärt
