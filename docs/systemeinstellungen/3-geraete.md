@@ -6,8 +6,15 @@ layout: default
 ---
 
 # Gruppe „Geräte“
+{: .no_toc }
 
-## 1. Bildschirm
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Bildschirm
 
 Bei Rechnern mit mehr als einem Bildschirm, z.B. Desktop mit 2 Monitoren, Laptop mit externem Bildschirm oder Beamer kann die Anordnung der Bildschirme zueinander eingestellt werden. 
 
@@ -17,13 +24,13 @@ Im Beispielbild ist z.B. der rote Bildschirm 1 der im Notebook eingebaute, der B
 
 Ändert man die Einstellung von „Bildschirme verbinden“ auf „Spiegel“, stellen beide Bildschirme den gleichen Inhalt bei gleicher Auflösung dar, ist bei Beamern manchmal hilfreich.
 
-## 2. Bluetooth
+## Bluetooth
 
 Öffnet den Bluetooth-Manager, um Bluetooth ein- bzw. aus-zuschalten, den eigenen Bluetooth-Namen zu ändern und den Rechner für andere sichtbar zu machen  (> Adapter > Adaptereinstellungen) und andere Bluetooth-Geräte zu suchen (Lupe).
 
 <img src="{{ site.baseurl }}/assets/images/geraete/bluetooth.png" alt="Bluetooth" width="400">
 
-## 3. Drucker
+## Drucker
 
 Einrichten und Konfigurieren von Druckern.
 
@@ -37,7 +44,7 @@ Im Beispiel oben ist übrigens ein Multifunktionsdrucker von Brother auch als Fa
 
 Neuere Scanner bzw. die in Multifunktionsdruckern eingebauten Scanner unterstützen meist Apple AirScan und werden vom Scannertreiber SANE in Mint ebenfalls automatisch erkannt und eingerichtet, sobald sie eingeschaltet werden.
 
-## 4. Energieverwaltung
+## Energieverwaltung
 
 Der Dialog unterscheidet sich bei Desktop und Notebook, bei Notebooks (mit Akku) gibt es viel mehr Einstellungen (s. Bild).
 
@@ -47,11 +54,11 @@ Der Dialog unterscheidet sich bei Desktop und Notebook, bei Notebooks (mit Akku)
 * Was passiert, wenn der Netzschalter gedrückt wird? Bei „Fragen“ kommt ein Dialog, in dem man zwischen Bereitschaft, Neustart und Herunterfahren entscheiden kann.
 * Energiemodus ist der Stromsparmodus der CPU (der sog. Governor), mögliche Einstellungen: Energie sparen, Ausgeglichen oder Leistung (powersave, balanced, performance).
 
-## 5. Farbe, Grafiktablett 
+## Farbe, Grafiktablett 
 
 Fortgeschritten. Hinzufügen und Auswählen von Farbprofilen (für Grafiker, Fotografen) und Einstellungen von Grafiktabletts (hat der normale Haushalt eher nicht).
 
-## 6. Klang
+## Klang
 
 Hier sind alle Audioeinstellungen zusammengefasst. Die Klangeinstellungen kann man auch über das Lautsprecher- oder Klangsymbol in der Leiste erreichen.
 
@@ -83,11 +90,11 @@ Systemklänge, also Töne, die Mint von sich gibt, wenn bestimmte Ereignisse ein
 
 Außerdem kann man eigene Audiodateien hinterlegen und testen (über den Abspielknopf).
 
-## 7. Laufwerke
+## Laufwerke
 
 **ABSOLUT FORTGESCHRITTEN!** Zeigt interne und externe Laufwerke und ihre Partitionen an. Löschen, Formatieren, Anlegen von Partitionen, hier kann man sein System nach Herzenslust zerschießen! 
 
-## 8. Maus- und Touchpad
+## Maus- und Touchpad
 
 Alle möglichen Einstellungen für die Maus: Linkshänder, Geschwindigkeit - Mauszeiger ist zu schnell / zu langsam, Größe des Mauszeigers und einige mehr.
 
@@ -97,19 +104,19 @@ Alle möglichen Einstellungen für die Maus: Linkshänder, Geschwindigkeit - Mau
 
 **Tip für Touchpad-Grobmotoriker und Maus-Bevorzugende wie mich:**  Die Touchpad-Einstellung „Deaktiviert, wenn eine Maus angeschlossen ist“ schaltet das Touchpad im Notebook aus, solange eine Maus eingesteckt ist. Damit gibt es kein Handballen-Ballett für den Mauszeiger …
 
-## 9. Netzwerk 
+## Netzwerk 
 
 Netzwerkeinstellungen sind eher fortgeschritten, normalerweise genügt es, Funk-Netzwerke über das Netzwerk-Icon rechts in der Leiste auszuwählen.
 
-## 10. Systeminformation
+## Systeminformation
 
 Die wichtigsten Daten zum System: Betriebssystem, CPU, USB, Grafikkarte, Speicher, BIOS, etc. Außerdem Systemberichte und Absturzberichte.
 Wenn man will (und nur dann!), wird diese Information zu den Linux Mint-Entwicklern hochgeladen, für deren Statistik.
 
-## 11. Tastatur
+## Tastatur
 
 Einstellungen zur Tastatur und zum Cursor (dem blinkenden Textzeiger), Einstellung und Installation zusätzlicher Tastaturlayouts (das wird eigentlich bei der Installation festgelegt), Konfiguration von Hotkeys (Start einer bestimmten Anwendung/Funktion mit einer selbst festgelegten Tastenkombi). Alles eher fortgeschritten.
 
-## 12. Thunderbolt
+## Thunderbolt
 
 Infos zu Thunderbolt bzw USB4-Schnittstellen am Rechner (hab ich selber nicht, kann ich daher nicht beschreiben ...)

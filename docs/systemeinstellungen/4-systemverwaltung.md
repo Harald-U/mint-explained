@@ -6,18 +6,25 @@ layout: default
 ---
 
 # Gruppe „Systemverwaltung“
+{: .no_toc }
 
 Funktionen, für die ich mich meist zusätzlich legitimieren muss, also FORTSCHRITTLICH.
 
-## 1. Anmeldefenster
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Anmeldefenster
 
 Aussehen und Verhalten des Bildschirms, der nach dem Start von Mint angezeigt wird und an dem man sich anmeldet. FORTSCHRITTLICH
 
-## 2. Benutzer und Gruppen
+## Benutzer und Gruppen
 
 Verwalten von eben diesen.  FORTSCHRITTLICH
 
-## 3. Fingerabdrücke
+## Fingerabdrücke
 
 Falls der Rechner (Notebook) einen unterstützten Fingerabruckscanner hat, können hier die Fingerabdrücke registriert werden.
 
@@ -25,7 +32,7 @@ Falls der Rechner (Notebook) einen unterstützten Fingerabruckscanner hat, könn
 
 Über das „Hamburger“_Menü (3 waagerechte Striche, links oben), kann der Fingerabruckscanner wieder ausgeschaltet werden.
 
-## 4. Firewall
+## Firewall
 
 Linux Mint installiert immer die UFW, die „uncomplicated firewall“, die ist aber erst mal ausgeschaltet (und kann auch aus der Willkommen-Anwendung heraus eingeschaltet werden). Wenn man sie einschaltet, werden alle Zugriffe von außen abgelehnt (Eingehend: Verweigern), alle Zugriffe nach außen gehen durch (Ausgehend: Erlauben). Das sollte für die meisten Anwender ausreichen.
 
@@ -33,7 +40,7 @@ Linux Mint installiert immer die UFW, die „uncomplicated firewall“, die ist 
 
 Bei Bedarf müssen Regeln hinzugefügt werden, das ist dann aber alles andere als unkompliziert. Aber Firewalls sind nirgends wirklich einfach, wenn Regeln ins Spiel kommen … Ein Beispiel dafür ist im Dokument [Warpinator]({{ site.baseurl }}/docs/warpinator){:target="_blank"} beschrieben.
 
-## 5. Paket-Quellen
+## Paket-Quellen
 
 Anwendungen in Linux sind in Paketen organisiert, ein Programm wie z.B. LibreOffice besteht aus mehreren Paketen. Diese Pakete werden auf Servern (sogenannten Repositories) weltweit vorgehalten und diese weltweiten Server synchronisieren sich untereinander. 
 
@@ -49,10 +56,10 @@ Alle anderen Einstellungen in den Paketquellen sind für fortgeschrittene Anwend
 
 Übrigens werden bei diesem Prozess keine Daten von meinem Notebook auf die Paket-Server übertragen. Niemand weiß, wer ich bin, wo ich wohne und welche Anwendungen ich auf meinem Rechner installiert habe.
 
-## 6. Systemverwaltung
+## Systemverwaltung
 
 FORTSCHRITTLICH! Einstellungen des Boot-Menüs (GRUB).
 
-## 7. Treiberverwaltung
+## Treiberverwaltung
 
 Für bestimmte Hardware, z.B. Grafikkarten von Nvidia, Netzwerkadapter o. dgl. kann eventuell über die Treiberverwaltung ein proprietärer Treiber installiert werden, soweit einer in den Paketquellen vorhanden ist. 
