@@ -16,5 +16,5 @@ heading_anchors: true
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "Distributed by an <a href=\"https://raw.githubusercontent.com/Harald-U/mint-explained/refs/heads/main/LICENSE\">MIT license.</a>  <img src="{{ site.baseurl }}/assets/cc-by-nc-sa.png" alt="CC BY-NC-SA">"
+footer_content: "Distributed by an <a href=\"https://raw.githubusercontent.com/Harald-U/mint-explained/refs/heads/main/LICENSE\">MIT license.</a>  <img src="https://github.com/Harald-U/mint-explained/blob/main/assets/cc-by-nc-sa.png" alt="CC BY-NC-SA">"
 
