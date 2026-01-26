@@ -11,7 +11,15 @@ layout: default
 
 <img src="{{ site.baseurl }}/assets/images/warpinator/warpinator.png" alt="Warpinator" width="400">
 
-Ist die Firewall auf Linux Mint eingeschaltet, müssen Regeln für Warpinator definiert werden, sonst findet der Warpinator keine anderen Rechner. Das kann aus Warpinator heraus gemacht werden, hier ist aber ein Beispiel, wie man die Regeln von Hand anlegt.
+Ist die Firewall auf Linux Mint eingeschaltet, müssen Regeln für Warpinator definiert werden, sonst findet der Warpinator keine anderen Rechner. Das kann aus Warpinator heraus gemacht werden oder indem man die Regeln in der [Universal Firewall UFW](https://harald-u.github.io/mint-explained/docs/systemeinstellungen/4-systemverwaltung.html#firewall){:target="_blank"} von Hand einträgt, eines von beiden reicht. 
+
+Die Warpinator-Einstellung findet man über das "Hamburger"-Menü (drei waagerechte Striche) links oben und dort auf der zweiten Seite "Verbindung":
+
+<img src="{{ site.baseurl }}/assets/images/warpinator/warp-settings.png" alt="Warpinator Settings" width="400">
+
+Der (1) "Gruppencode" muss auf allen Warpinator-Instanzen, die sich miteinander verbinden sollen, gleich sein, Mit dem Knopf (2) "Firewall-Regeln aktualisieren" können die Firewall-Regel eingetragen oder angepasst werden.
+
+Möchte man die Firewall-Regeln von Hand anlegen oder ändern, ist hier ein Beispiel, wie man die Regeln von Hand anlegt:
 
 <img src="{{ site.baseurl }}/assets/images/warpinator/warp_ufw.png" alt="Warpinator Firewallregeln" width="400">
 
