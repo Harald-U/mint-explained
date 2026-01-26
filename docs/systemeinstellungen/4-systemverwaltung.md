@@ -30,7 +30,7 @@ Falls der Rechner (Notebook) einen unterstützten Fingerabruckscanner hat, könn
 
 <img src="{{ site.baseurl }}/assets/images/verwaltung/fingerprint.png" alt="Fingerabdrücke" width="400">
 
-Über das „Hamburger“_Menü (3 waagerechte Striche, links oben), kann der Fingerabruckscanner wieder ausgeschaltet werden.
+Über das „Hamburger“-Menü (3 waagerechte Striche, links oben), kann der Fingerabruckscanner wieder ausgeschaltet werden.
 
 ## Firewall
 
