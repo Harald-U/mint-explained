@@ -1,3 +1,11 @@
+---
+layout: default
+title: MD Formatierungen
+nav_exclude: true
+permalink: /md-format
+---
+
+
 # Formatierungen
 
 ## Links (URLs)
