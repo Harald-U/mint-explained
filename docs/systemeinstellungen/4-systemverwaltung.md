@@ -42,7 +42,7 @@ Bei Bedarf müssen Regeln hinzugefügt werden, das ist dann aber alles andere al
 
 ## Paket-Quellen
 
-[Paket-Quellen]()
+Siehe Kapitel [Paket-Quellen](https://harald-u.github.io/mint-explained/docs/updates_upgrade.html#paket-quellen)
 
 ## Systemverwaltung
 
