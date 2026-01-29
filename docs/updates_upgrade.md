@@ -70,7 +70,7 @@ In regelmässigen Abständen wird Linux Mint selbst aktualisiert, also ein Upgra
 
 Die Hauptversionen basieren auf den Ubuntu Langzeitversionen (LTS), die alle zwei Jahre herauskommen, immer in geraden Jahren im April, daher heissen diese Versionen z.B. Ubuntu 24.4. Die Version Ubuntu 24.4 war die Basis für Linux Mint 22, das im Juli 2024 freigegeben wurde.
 
-In den zwei Jahren zwischen zwei Ubuntu LTS-Versionen veröffentlichen die Linux Mint-Entwickler in der Regel drei Linux Mint Zwischenversionen, es gibt aktuell also die Hauptversion 22 und die darauf folgenen Zwischenversionen 22.1, 22.2 und aktuell 22.3.
+In den zwei Jahren zwischen zwei Ubuntu LTS-Versionen veröffentlichen die Linux Mint-Entwickler in der Regel drei Linux Mint Zwischenversionen, es gibt aktuell also die Hauptversion 22 und die darauf folgenen Zwischenversionen 22.1, 22.2 und aktuell 22.3. Die Mint-Entwickler geben den Versionen auch Namen (wie Ubuntu): 22 heisst "Wilma", 22.1 heisst "Xia", 22.2 heisst "Zara" und die aktuelle 22.3 heisst "Zena". 
 
 ## Upgrade von Linux Mint Zwischenversionen
 
@@ -90,7 +90,7 @@ Wenn man auf das Icon klickt, wird es konkreter:
 
 <img src="{{ site.baseurl }}/assets/images/software/systembericht2.png" alt="Systembericht Upgrade" width="500">
 
-Wenn man jetzt auf den grünen Knopf klickt, wird man Schritt für Schritt durch den Prozess durch den Prozess geführt.
+Wenn man jetzt auf den grünen Knopf klickt, wird man Schritt für Schritt durch den Prozess geführt.
 
 > **WICHTIG:** Ein Upgrade birgt immer die Gefahr, dass etwas schief geht und der Rechner hinterher nicht mehr funktioniert. Daher sollte man vor einem Upgrade **unbedingt alle wichtigen persönlichen Daten sichern**!!!
 
