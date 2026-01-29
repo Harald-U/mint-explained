@@ -15,13 +15,13 @@ layout: default
 
 Anwendungen in Linux sind in Paketen organisiert, ein Programm wie z.B. LibreOffice besteht aus mehreren Paketen. Diese Pakete werden auf Servern (sogenannten Repositories) weltweit vorgehalten und diese weltweiten Server synchronisieren sich untereinander. 
 
-Ein Betriebssystem wie Linux Mint führt eine Liste der aktuell installierten Pakete und ihrer installierten Versionen. Es lädt in regelmäßigen Abständen von zwei Servern eine Liste der aktuellen Pakete (und ihrer aktuellen Version) für Ubuntu und Linux Mint. Dann werden die Server-Versionen mit den installierten Versionen verglichen und bei Bedarf eine Aktualisierungsliste erzeugt und die Benutzer*in auf ein mögliches Update hingewiesen durch den roten Punkt am entsprechenden Icon (Schild) in der Leiste <img src="{{ site.baseurl }}//assets/images/software/updates_available.png" alt="Shield">. Die Software-Aktualierung wird durch einen Klick auf dieses Icon gestartet.
+Ein Betriebssystem wie Linux Mint führt eine Liste der aktuell installierten Pakete und ihrer installierten Versionen. Es lädt in regelmäßigen Abständen von zwei Servern eine Liste der aktuellen Pakete (und ihrer aktuellen Version) für Ubuntu und Linux Mint. Dann werden die Server-Versionen mit den installierten Versionen verglichen und bei Bedarf eine Aktualisierungsliste erzeugt und die Benutzer*in auf ein mögliches Update hingewiesen durch den roten Punkt am entsprechenden Icon (Schild) in der Leiste <img src="{{ site.baseurl }}//assets/images/software/updates_available.png" alt="Shield" width="50">. Die Software-Aktualierung wird durch einen Klick auf dieses Icon gestartet.
 
 ## Aktualisierungsverwaltung
 
-<img src="{{ site.baseurl }}/assets/images/software/updates_list.png alt="Updates-Liste" width="500">
-
 Hier sieht man, welche Updates verfügbar sind. Durch Klick auf "Aktualisierungen installieren" wird der Prozess gestartet, da es eine Adminstrationsaufgabe ist, muss mit der Eingabe des eigenen Passworts authorisiert werden.
+
+<img src="{{ site.baseurl }}/assets/images/software/updates_list.png alt="Updates-Liste" width="500">
 
 Während der Update läuft, kann beliebig weiter gearbeitet werden.
 
