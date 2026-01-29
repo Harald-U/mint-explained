@@ -65,16 +65,20 @@ Alle anderen Einstellungen in den Paketquellen sind für fortgeschrittene Anwend
 
 In regelmässigen Abständen wird Linux Mint selbst aktualisiert, also ein Upgrade von den Entwicklern angeboten. Dabei gibt es zwei verschiedene Upgrades:
 
-* Haupt-Versionen, z.B. Linux Mint 21 oder Linux Mint 22
-* Zwischen-Versionen, z.B. Linux Mint 22.1 oder Linux Mint 22.3
+* Hauptversionen, z.B. Linux Mint 21 oder Linux Mint 22
+* Zwischenversionen, z.B. Linux Mint 22.1 oder Linux Mint 22.3
 
-Die Haupt-Versionen basieren auf den Ubuntu Langzeitversionen (LTS), die alle zwei Jahre herauskommen, immer in geraden Jahren im April, daher heissen diese Versionen z.B. Ubuntu 24.4. Die Version Ubuntu 24.4 war die Basis für Linux Mint 22, das im Juli 2024 freigegeben wurde.
+Die Hauptversionen basieren auf den Ubuntu Langzeitversionen (LTS), die alle zwei Jahre herauskommen, immer in geraden Jahren im April, daher heissen diese Versionen z.B. Ubuntu 24.4. Die Version Ubuntu 24.4 war die Basis für Linux Mint 22, das im Juli 2024 freigegeben wurde.
 
-In den zwei Jahren zwischen zwei Ubuntu LTS-Versionen veröffentlichen die Linux Mint-Entwickler in der Regel drei Linux Mint Zwischenversionen, es gibt aktuell also die Hauptversion 22 und die darauf folgenen Zwischen-Versionen 22.1, 22.2 und aktuell 22.3.
+In den zwei Jahren zwischen zwei Ubuntu LTS-Versionen veröffentlichen die Linux Mint-Entwickler in der Regel drei Linux Mint Zwischenversionen, es gibt aktuell also die Hauptversion 22 und die darauf folgenen Zwischenversionen 22.1, 22.2 und aktuell 22.3.
 
-## Upgrade von Linux Mint Zwischen-Versionen
+## Upgrade von Linux Mint Zwischenversionen
 
-Die Upgrades des Zwischen-Versionen sind recht einfach, die Anweisungen dazu werden auf dem Linux Mint Blog veröffentlich, z.B. [How to upgrade to Linux Mint 22.3](https://blog.linuxmint.com/?p=4980){:target="_blank"}.
+Die Upgrades des Zwischenversionen sind recht einfach, die Anweisungen dazu werden auf dem Linux Mint Blog veröffentlich, z.B. [How to upgrade to Linux Mint 22.3](https://blog.linuxmint.com/?p=4980){:target="_blank"}.
+
+In der Aktualisierungsverwaltung gibt es dann im Menüpunkt "Bearbeiten (Edit)" einen entsprechenden Eintrag:
+
+<img src="{{ site.baseurl }}/assets/images/software/shadow_mintupgrade1.png" alt="shadow upgrade" width="300">
 
 Linux Mint gibt aber selber auch Hinweise auf eine neue Betriebssystemversion. 
 
@@ -88,16 +92,17 @@ Wenn man auf das Icon klickt, wird es konkreter:
 
 Wenn man jetzt auf den grünen Knopf klickt, wird man Schritt für Schritt durch den Prozess durch den Prozess geführt.
 
-    **WICHTIG:** Ein Upgrade birgt immer die Gefahr, dass etwas schief geht und der Rechner hinterher nicht mehr funktioniert. Daher sollte man vor einem Upgrade **unbedingt alle wichtigen persönlichen Daten sichern**"**!!!
+> **WICHTIG:** Ein Upgrade birgt immer die Gefahr, dass etwas schief geht und der Rechner hinterher nicht mehr funktioniert. Daher sollte man vor einem Upgrade **unbedingt alle wichtigen persönlichen Daten sichern**!!!
 
 Zuerst gibt es Infos (auf Englisch): 
 
 * Versions-Hinweise beschreiben bekannte Probleme und deren mögliche Lösung. 
 * Neue Funktionen, die mit dieser Version verfügbar sind. 
 * Anforderungen - diesen Punkt hätte ich sicher anders genannt. Hier wird auf das Risiko eines Uprades hingewiesen:
+
 <img src="{{ site.baseurl }}/assets/images/software/upgrade_agree.png" alt="Zustimmung" width="500">
 
-Wenn man den Haken setzt und auf "Anwenden" klickt, wird das Passwort abgefragt und dann geht das Upgrade auch direkt los. Das Upgrade modifiziert die Paketquellen und installiert dann eine Menge Pakete. Das geht eigentlich immer erstaunlich schnell. Wenn alles fertig ist, wird man zum Neustart aufgefordert. Wenn alles gut ging, startet der Rechner dann in neume Glanz mit der neuen Version. 
+Wenn man den Haken setzt und auf "Anwenden" klickt, wird das Passwort abgefragt und dann geht das Upgrade auch direkt los. Das Upgrade modifiziert die Paketquellen und installiert dann eine Menge Pakete. Das geht eigentlich immer erstaunlich schnell. Wenn alles fertig ist, wird man zum Neustart aufgefordert. Wenn alles gut ging, startet der Rechner dann in neuem Glanz mit der neuen Version. 
 
 Man sollte sofort überprüfen, ob es Aktualisierungen (Updates) gibt, dann hat das Schild-Icon in der Leiste einen roten Punkt. Wenn man dann die Aktualisierungsverwaltung öffnet, wird man aufgefordert, zu einem lokalen Spiegelserver zu wechseln. Wie das geht, steht [hier](#paket-quellen). Nachdem das erfolgt ist, werden wie gewohnt die Updates eingespielt.
 
