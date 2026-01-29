@@ -42,7 +42,7 @@ Bei Bedarf müssen Regeln hinzugefügt werden, das ist dann aber alles andere al
 
 ## Paket-Quellen
 
-[Paket-Quellen]({% link docs/updates_upgrade.md#Paket-Quellen %})
+[Paket-Quellen]()
 
 ## Systemverwaltung
 
