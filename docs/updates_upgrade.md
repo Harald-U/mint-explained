@@ -19,23 +19,25 @@ Ein Betriebssystem wie Linux Mint führt eine Liste der aktuell installierten Pa
 
 ## Aktualisierungsverwaltung
 
-Hier sieht man, welche Updates verfügbar sind. Durch Klick auf "Aktualisierungen installieren" wird der Prozess gestartet, da es eine Adminstrationsaufgabe ist, muss mit der Eingabe des eigenen Passworts authorisiert werden.
+Hier sieht man, welche Updates verfügbar sind. Durch Klick auf "Aktualisierungen installieren" wird der Prozess gestartet und da es eine Adminstrationsaufgabe ist, muss mit der Eingabe des eigenen Passworts authorisiert werden.
 
-<img src="{{ site.baseurl }}/assets/images/software/updates_list.png alt="Updates-Liste" width="500">
+<img src="{{ site.baseurl }}/assets/images/software/updates_list.png" alt="Updates-Liste" width="500">
 
-Während der Update läuft, kann beliebig weiter gearbeitet werden.
+Während das Update läuft, kann beliebig weiter gearbeitet werden.
 
-In sehr seltenen Fällen ist ein Neustart des Rechners erforderlich, z. B. wenn der Linux Kernel, die Hauptkomponente des Betriebssystems, aktualisiert werden muss. Da der Kernel sicherheitsrelevant ist, sollte der Neustart schnell erfolgen. Linux Mint weist darauf hin:
+In sehr seltenen Fällen ist ein Neustart des Rechners erforderlich, z. B. wenn der Linux Kernel, die Hauptkomponente des Betriebssystems, aktualisiert werden soll. Da der Kernel sicherheitsrelevant ist, sollte der Neustart schnell erfolgen. Linux Mint weist darauf hin:
 
-<img src="{{ site.baseurl }}/assets/images/software/restart-reqd.png alt="Restart required" width="500">
+<img src="{{ site.baseurl }}/assets/images/software/restart-reqd.png" alt="Restart required" width="500">
 
 Manchmal wird auch die Anwendung "Aktualisierungsverwaltung" selbst aktualisiert. Dann sieht man statt einer Software-Liste dieses Bild:
 
-<img src="{{ site.baseurl }}/assets/images/software/upgrade4update.png alt="Restart required" width="500">
+<img src="{{ site.baseurl }}/assets/images/software/upgrade4update.png" alt="Restart required" width="500">
 
-Dann wird durch Klich auf den Knopf erst dieses Update durchgeführt. Danach startet die Anwendung neu und zeigt eventuell vorhandene andere Aktualisierungen.
+Durch Klick auf den Knopf wird erst dieses Update durchgeführt. Danach startet die Anwendung neu und zeigt eventuell vorhandene andere Aktualisierungen.
 
 ## Paket-Quellen
+
+Diese Einstellung nehmen wir i.d.R. im Linux-Café für Sie vor ...
 
 Die Paket-Quellen legen fest, von welchen Servern irgendwo auf der Welt ich Software-Updates herunterlade und installiere.
 
