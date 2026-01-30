@@ -2,23 +2,23 @@
 title: Rechtliches
 layout: default
 permalink: /rechtliches
+nav_exclude: true
 ---
 
 # Impressum
 
-## Autor dieser Dokumentation
-
-Harald Uebele, harald[punkt]uebele[at]gmail[punkt]com
+Autor dieser Dokumentation: Harald Uebele
+Kontakt (E-Mail): harald[punkt]uebele[at]gmail[punkt]com
 
 # Urheberrecht
 
 © Harald Uebele, 2026
 
-Der Inhalt dieser Seite unterliegt der [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
-<img src='https://mirrors.creativecommons.org/presskit/icons/cc.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'>
-<img src='https://mirrors.creativecommons.org/presskit/icons/by.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'>
-<img src='https://mirrors.creativecommons.org/presskit/icons/sa.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'>
- Lizenz (Creative Commons Namensnennung-Share Alike 4.0 International).
+Der Inhalt dieser Seite unterliegt der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}
+<img src='https://mirrors.creativecommons.org/presskit/icons/cc.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .1em;'>
+<img src='https://mirrors.creativecommons.org/presskit/icons/by.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .1em;'>
+<img src='https://mirrors.creativecommons.org/presskit/icons/sa.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .1em;'>
+ ("Creative Commons Namensnennung-Share Alike 4.0 International").
 
 # Rechtliche Hinweise
 
@@ -27,6 +27,10 @@ Die Inhalte dieser Webseite werden mit größter Sorgfalt erstellt. Dennoch kann
 Haftung für Links: Diese Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss haben. Deshalb kann ichr für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
 
 # Datenschutzerklärung
+
+## Cookies
+
+Diese Seite verwendet keine Cookies.
 
 ## Hosting
 
