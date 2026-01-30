@@ -8,6 +8,7 @@ nav_exclude: true
 # Impressum
 
 Autor dieser Dokumentation: Harald Uebele
+
 Kontakt (E-Mail): harald[punkt]uebele[at]gmail[punkt]com
 
 # Urheberrecht
