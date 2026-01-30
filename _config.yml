@@ -2,7 +2,8 @@ title: Mint Explained
 description: Linux Mint und Linuxcafe Stuttgart
 theme: just-the-docs
 
-url: https://Harald-U.github.io/mint-explained
+baseurl: "/mint-explained"   # exakt der Repo-Name
+url: " https://Harald-U.github.io"
 
 # Enable or disable the side/mobile menu globally
 nav_enabled: true
