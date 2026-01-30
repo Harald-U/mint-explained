@@ -1,33 +1,48 @@
-@font-face {
-    font-family: "IBM_Plex_Mono";
-    font-style: normal;
-    src: url(/assets/fonts/IBMPlexMono-Regular-Latin1.woff2) format("woff2"), 
-         url(/assets/fonts/IBMPlexMono-Regular-Latin1.woff) format("woff");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+/* IBM Plex Sans */
 
 @font-face {
-    font-family: "IBM_Plex_Sans";
-    font-style: normal;
-    src: url(/assets/fonts/IBMPlexSans-Regular-Latin1.woff2) format("woff2"), 
-         url(/assets/fonts/IBMPlexSans-Regular-Latin1.woff) format("woff");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }  
+  font-family: "IBM Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Regular-Latin1.woff2") format("woff2"),
+       url("/assets/fonts/IBMPlexSans-Regular-Latin1.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
-    font-family: "IBM_Plex_Sans_Bold";
-    font-style: normal;
-    src: url(/assets/fonts/IBMPlexSerif-Bold-Latin1.woff2) format("woff2"), 
-         url(/assets/fonts/IBMPlexSerif-Bold-Latin1.woff) format("woff");
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-  }   
+  font-family: "IBM Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Italic-Latin1.woff2") format("woff2"),
+       url("/assets/fonts/IBMPlexSans-Italic-Latin1.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Bold-Latin1.woff2") format("woff2"),
+       url("/assets/fonts/IBMPlexSans-Bold-Latin1.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* IBM Plex Mono */
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("/assets/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2"),
+       url("/assets/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
   
-$body-font-family: "IBM_Plex_Sans"; //, system-ui, -apple-system, sans-serif;
-$header-font-family: "IBM_Plex_Sans_Bold"; //, system-ui, -apple-system, sans-serif;
-$mono-font-family: "IBM_Plex_Mono"; //, monospace;  
+$body-font-family: "IBM Plex Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$mono-font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+/* Mono ist etwas größer */
+code,
+pre {
+  font-size: 0.95em;
+}
