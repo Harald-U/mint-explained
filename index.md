@@ -2,6 +2,7 @@
 title: Home
 layout: default
 last_modified_date: 2026-01-29
+nav_order: 1
 ---
 
 <img src="{{ site.baseurl }}/assets/images/linuxcafe_kaltental.png" alt="Logo Linuxcafe Stuttgart" width="150">
