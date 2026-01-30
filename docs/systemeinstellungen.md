@@ -7,6 +7,8 @@ layout: default
 
 # Linux Mint Systemeinstellungen erklärt
 
+*Das Dokument beschreibt die Systemeinstellungen von Linux Mint 22.3 "Zena"*
+
 Die Systemeinstellungen sind die zentrale Stelle zur Konfiguration von Cinnamon. Man findet sie über das **Mint Menü**, den Knopf ganz links in der Leiste am unteren Bildschirmrand (1).
 
 <img src="{{ site.baseurl }}/assets/images/mint_menu.png" alt="Linux Mint Menu" width="500">
@@ -22,4 +24,3 @@ Wir werden hier nicht jede der Optionen im Detail erklären, sondern nur diejeni
 
 **Wichtig:** Man kann sich in den Systemeinstellungen das System ziemlich durcheinander bringen, also bitte nur solche Einstellungen ändern, deren Funktion man auch versteht!
 
-*Das Dokument beschreibt die Systemeinstellungen von Linux Mint 22.3 "Zena"*
