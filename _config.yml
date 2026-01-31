@@ -2,7 +2,18 @@ title: Mint Explained
 description: Linux Mint und Linuxcafe Stuttgart
 theme: just-the-docs
 
-url: "https://harald-u.github.io/mint-explained"
+baseurl: "/mint-explained"
+url: "https://harald-u.github.io"
+
+# Disable .html in page URLs
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 # Enable or disable the side/mobile menu globally
 nav_enabled: true
@@ -13,6 +24,6 @@ heading_anchors: true
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: # "<a href='https://harald-u.github.io/mint-explained/rechtliches'>Impressum | Rechtliches</a>"
+footer_content: 
 last_edit_timestamp: true 
 last_edit_time_format: "%d.%m.%Y" 
