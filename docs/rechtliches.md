@@ -25,7 +25,7 @@ Der Inhalt dieser Seite unterliegt der Lizenz [CC BY-SA 4.0](https://creativecom
 
 Die Inhalte dieser Webseite werden mit größter Sorgfalt erstellt. Dennoch kann keine Garantie für die Vollständigkeit, Richtigkeit und Aktualität der bereitgestellten Informationen übernommen werden.
 
-Haftung für Links: Diese Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss haben. Deshalb kann ichr für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
+Haftung für Links: Diese Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
 
 # Datenschutzerklärung
 

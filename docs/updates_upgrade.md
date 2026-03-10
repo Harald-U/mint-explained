@@ -104,6 +104,8 @@ Zuerst gibt es Infos (auf Englisch):
 
 Wenn man den Haken setzt und auf "Anwenden" klickt, wird das Passwort abgefragt und dann geht das Upgrade auch direkt los. Das Upgrade modifiziert die Paketquellen und installiert dann eine Menge Pakete. Das geht eigentlich immer erstaunlich schnell. Wenn alles fertig ist, wird man zum Neustart aufgefordert. Wenn alles gut ging, startet der Rechner dann in neuem Glanz mit der neuen Version. 
 
-Man sollte sofort überprüfen, ob es Aktualisierungen (Updates) gibt, dann hat das Schild-Icon in der Leiste einen roten Punkt. Wenn man dann die Aktualisierungsverwaltung öffnet, wird man aufgefordert, zu einem lokalen Spiegelserver zu wechseln. Wie das geht, steht [hier](#paket-quellen). Nachdem das erfolgt ist, werden wie gewohnt die Updates eingespielt.
+Man sollte sofort überprüfen, ob es Aktualisierungen (Updates) gibt, dann hat das Schild-Icon in der Leiste einen roten Punkt. 
+
+Durch das Upgrade wurden eigene Einstellungen wieder mit den Standardeinstellungen überschrieben. Wenn man dann die Aktualisierungsverwaltung öffnet, wird man daher aufgefordert, zu einem lokalen Spiegelserver zu wechseln.  Wie das geht, steht [hier](#paket-quellen). Nachdem das erfolgt ist, werden wie gewohnt die Updates eingespielt.
 
 
