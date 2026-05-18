@@ -63,6 +63,17 @@ Alle anderen Einstellungen in den Paketquellen sind für fortgeschrittene Anwend
 
 # Upgrades
 
+Die Entwickler von Linux Mint haben beschlossen, die Upgradestrategie von Mint zu ändern, Details sind im entsprechenden [Blogeintrag](https://blog.linuxmint.com/?p=5019){:target="_blank"}.
+
+Die wesentlichen Änderungen sind:
+
+* Längere Entwicklungszyklen
+* Nächstes Release (Linux Mint 23) voraussichtlich im Dezember 2026
+
+Die folgenden Infos werden für zukünftige Upgrades vermutlich nicht mehr gelten.
+
+## Upgrades bis einschliesslich Linux Mint 22.3
+
 In regelmässigen Abständen wird Linux Mint selbst aktualisiert, also ein Upgrade von den Entwicklern angeboten. Dabei gibt es zwei verschiedene Upgrades:
 
 * Hauptversionen, z.B. Linux Mint 21 oder Linux Mint 22
@@ -72,7 +83,7 @@ Die Hauptversionen basieren auf den Ubuntu Langzeitversionen (LTS), die alle zwe
 
 In den zwei Jahren zwischen zwei Ubuntu LTS-Versionen veröffentlichen die Linux Mint-Entwickler in der Regel drei Linux Mint Zwischenversionen, es gibt aktuell also die Hauptversion 22 und die darauf folgenen Zwischenversionen 22.1, 22.2 und aktuell 22.3. Die Mint-Entwickler geben den Versionen auch Namen (wie Ubuntu): 22 heisst "Wilma", 22.1 heisst "Xia", 22.2 heisst "Zara" und die aktuelle 22.3 heisst "Zena". 
 
-## Upgrade von Linux Mint Zwischenversionen
+### Upgrade von Linux Mint Zwischenversionen
 
 Die Upgrades des Zwischenversionen sind recht einfach, die Anweisungen dazu werden auf dem Linux Mint Blog veröffentlich, z.B. [How to upgrade to Linux Mint 22.3](https://blog.linuxmint.com/?p=4980){:target="_blank"}.
 

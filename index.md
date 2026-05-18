@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-last_modified_date: 2026-02-01
+last_modified_date: 2026-05-18
 nav_order: 1
 ---
 
@@ -10,5 +10,5 @@ nav_order: 1
 
 # Linux Mint und Linuxcafe
 
-Dieses Dokument entstand nach einer längeren Session mit einem Kunden im Linuxcafe, zuerst als LibreOffice ODT. In dieser vorliegenden Form ist es leichter aktuell zu halten ...
+Dieses Dokument entstand nach einer längeren Session mit einem Kunden im Linuxcafe, zuerst als LibreOffice ODT. In diesem Onlineformat ist es aber leichter aktuell zu halten ...
 
