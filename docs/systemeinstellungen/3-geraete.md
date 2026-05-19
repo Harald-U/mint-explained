@@ -66,21 +66,21 @@ Hier sind alle Audioeinstellungen zusammengefasst. Die Klangeinstellungen kann m
 
 <img src="{{ site.baseurl }}/assets/images/geraete/ausgang.png" alt="Ausgang" width="400">
 
-Regler für Lautstärke (2) und Balance (3).
+Regler für Lautstärke &#x2461; und Balance &#x2462;.
 
-Bei verschiedenen Ausgabegeräten (z.B. interne Lautsprecher, Bluetooth-Lautsprecher, per HDMI angeschlossener Fernseher) wird hier der Ausgabekanal (1) bzw. das Profil (Bluetooth) (2) ausgewählt. 
+Bei verschiedenen Ausgabegeräten (z.B. interne Lautsprecher, Bluetooth-Lautsprecher, per HDMI angeschlossener Fernseher) wird hier der Ausgabekanal &#x2460; bzw. das Profil (Bluetooth) &#x2461; ausgewählt. 
 
-Übersteuerung (4) kann eingeschaltet werden, wenn der Kanal nicht laut genug eingestellt werden kann, dann geht der Lautstärkeregler über 100 %.
+Übersteuerung &#x2463; kann eingeschaltet werden, wenn der Kanal nicht laut genug eingestellt werden kann, dann geht der Lautstärkeregler über 100 %.
 
 **Eingang:**
 
 <img src="{{ site.baseurl }}/assets/images/geraete/eingang.png" alt="Eingang" width="400">
 
-Hauptsächlich Pegel des Mikrofons (soweit vorhanden) (1).
+Hauptsächlich Pegel des Mikrofons (soweit vorhanden) &#x2460;.
 
-(2) zeigt den Aufnahmepegel an.
+&#x2461; zeigt den Aufnahmepegel an.
 
-Mit dem Knopf (3) kann das Mikrofon stumm geschaltet werden. Manche Notebooks haben dafür auch eine Taste.
+Mit dem Knopf &#x2462; kann das Mikrofon stumm geschaltet werden. Manche Notebooks haben dafür auch eine Taste.
 
 **Klänge:**
 

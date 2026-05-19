@@ -51,9 +51,9 @@ Die Paket-Quellen sind auch eine Option in den Mint Systemeinstellungen in der G
 
 <img src="{{ site.baseurl }}/assets/images/software/paketquellen.png" alt="Paketquellen" width="500">
 
-In den Paketquellen sucht man sich einen Server für Haupt (= Linux Mint-Pakete) und Basis (= Ubuntu-Pakete), indem man einfach auf das Feld mit der Server-Adresse klickt (1). 
+In den Paketquellen sucht man sich einen Server für Haupt (= Linux Mint-Pakete) und Basis (= Ubuntu-Pakete), indem man einfach auf das Feld mit der Server-Adresse klickt &#x2460;. 
 
-Mint testet die Verbindung zu den Servern und sortiert nach der schnellsten Verbindung (2). Ich persönlich nutze immer den Server, der möglichst dicht bei mir ist, für Stuttgart bietet sich (3) Hochschule Esslingen University of Applied Sciences an, das sind die Server der Hochschule (FH) Esslingen.
+Mint testet die Verbindung zu den Servern und sortiert nach der schnellsten Verbindung &#x2461;. Ich persönlich nutze immer den Server, der möglichst dicht bei mir ist, für Stuttgart bietet sich &#x2462; Hochschule Esslingen University of Applied Sciences an, das sind die Server der Hochschule (FH) Esslingen.
 
 Nachdem man die Spiegel-Server geändert hat, sollte man den "APT-Zwischenspeicher" aktualisieren, das ist die Liste der auf den Servern verfügbaren Software.
 

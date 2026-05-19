@@ -9,14 +9,14 @@ layout: default
 
 *Das Dokument beschreibt die Systemeinstellungen von Linux Mint 22.3 "Zena"*
 
-Die Systemeinstellungen sind die zentrale Stelle zur Konfiguration von Cinnamon. Man findet sie über das **Mint Menü**, den Knopf ganz links in der Leiste am unteren Bildschirmrand (1).
+Die Systemeinstellungen sind die zentrale Stelle zur Konfiguration von Cinnamon. Man findet sie über das **Mint Menü**, den Knopf ganz links in der Leiste am unteren Bildschirmrand &#x2460;.
 
 <img src="{{ site.baseurl }}/assets/images/mint_menu.png" alt="Linux Mint Menu" width="500">
 
-Man kann entweder links in den Favoriten die Anwendung „Systemeinstellungen“ (2) starten, dann sieht man alle Einstellungen nach Themen gruppiert.
-Oder man geht über die Kategorie „Einstellungen“ (3), dann bekommt man alle Einstellungen als alphabetisch sortierte Liste von Anwendungen. In der Kategorie „Einstellungen“ sind auch andere Einstellungsoptionen vorhanden, z. B. der Cinnamon-Menü-Editor.
+Man kann entweder links in den Favoriten die Anwendung „Systemeinstellungen“ &#x2461; starten, dann sieht man alle Einstellungen nach Themen gruppiert.
+Oder man geht über die Kategorie „Einstellungen“ &#x2462;, dann bekommt man alle Einstellungen als alphabetisch sortierte Liste von Anwendungen. In der Kategorie „Einstellungen“ sind auch andere Einstellungsoptionen vorhanden, z. B. der Cinnamon-Menü-Editor.
 
-Wir gehen in diesem Dokument über das Programm „Systemeinstellungen“ (1):
+Wir gehen in diesem Dokument über das Programm „Systemeinstellungen“ &#x2461;:
 
 <img src="{{ site.baseurl }}/assets/images/Systemeinstellungen.png" alt="Linux Mint Menu" width="500">
 

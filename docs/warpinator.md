@@ -17,7 +17,7 @@ Die Warpinator-Einstellung findet man über das "Hamburger"-Menü (drei waagerec
 
 <img src="{{ site.baseurl }}/assets/images/warpinator/warp-settings.png" alt="Warpinator Settings" width="400">
 
-Der (1) "Gruppencode" muss auf allen Warpinator-Instanzen, die sich miteinander verbinden sollen, gleich sein, Mit dem Knopf (2) "Firewall-Regeln aktualisieren" können die Firewall-Regel eingetragen oder angepasst werden.
+Der &#x2460; "Gruppencode" muss auf allen Warpinator-Instanzen, die sich miteinander verbinden sollen, gleich sein, Mit dem Knopf &#x2461; "Firewall-Regeln aktualisieren" können die Firewall-Regel eingetragen oder angepasst werden.
 
 Möchte man die Firewall-Regeln von Hand anlegen oder ändern, ist hier ein Beispiel, wie man die Regeln von Hand anlegt:
 
@@ -25,6 +25,6 @@ Möchte man die Firewall-Regeln von Hand anlegen oder ändern, ist hier ein Beis
 
 Warpinator benutzt die Ports 42000 und 42001, diese müssen erlaubt werden für eingehende Richtung für beide Protokolle (UDP und TCP). 
 
-Das passiert im Bereich Regeln (1), durch Hinzufügen + (2) als „Einfache Regel“ (3), und muss separat für Port 42000 und 42001 gemacht werden. 
+Das passiert im Bereich Regeln &#x2460;, durch Hinzufügen + &#x2461; als „Einfache Regel“ &#x2462;, und muss separat für Port 42000 und 42001 gemacht werden. 
 
 Die Regel wird dann zweimal (automatisch) angelegt, für IP V4 und IP V6.
