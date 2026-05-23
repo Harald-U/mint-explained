@@ -28,3 +28,17 @@ Warpinator benutzt die Ports 42000 und 42001, diese müssen erlaubt werden für 
 Das passiert im Bereich Regeln &#x2460;, durch Hinzufügen + &#x2461; als „Einfache Regel“ &#x2462;, und muss separat für Port 42000 und 42001 gemacht werden. 
 
 Die Regel wird dann zweimal (automatisch) angelegt, für IP V4 und IP V6.
+
+## Warpinator für andere Platformen
+
+Warpinator wird vom Linux Mint-Team für Linux entwickelt. Es gibt aber inoffizielle Ports für Windows, Android und iOS. Sie sind hier [verlinkt](https://github.com/linuxmint/warpinator?tab=readme-ov-file#other-platforms-unofficial){:target="_blank"}.
+
+Und noch eine Warnung, ebenfalls von dieser Seite:
+
+### ⚠️ Warning: Fake/malicious website: 
+
+**warpinator[.]com** is a fake website, potentially malicious!
+
+Do NOT download or run any software from it!
+
+We do not know who maintains it. We tried to take it down multiple times, the hosting company does not care.
