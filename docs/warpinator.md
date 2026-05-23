@@ -31,7 +31,7 @@ Die Regel wird dann zweimal (automatisch) angelegt, für IP V4 und IP V6.
 
 ## Warpinator für andere Platformen
 
-Warpinator wird vom Linux Mint-Team für Linux entwickelt. Es gibt aber inoffizielle Ports für Windows, Android und iOS. Sie sind hier [verlinkt](https://github.com/linuxmint/warpinator?tab=readme-ov-file#other-platforms-unofficial){:target="_blank"}.
+Warpinator wird vom Linux Mint-Team für Linux entwickelt. Es gibt aber inoffizielle Ports für Windows und Android, sie sind hier [verlinkt](https://github.com/linuxmint/warpinator?tab=readme-ov-file#other-platforms-unofficial){:target="_blank"}.
 
 Und noch eine Warnung, ebenfalls von dieser Seite:
 
