@@ -6,6 +6,15 @@ layout: default
 ---
 
 # Warpinator – Übertragen von Dateien zwischen Rechnern
+{: .no_toc }
+
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Funktion und Konfiguration
 
 [Warpinator](https://warpinator.com/){:target="_blank"} erlaubt den Dateitransfer und das Senden von Textnachrichten über das lokale Netzwerk zwischen Rechnern (Linux und Windows) und auch Telefonen bzw. Tablets (Android, iPhone). Ist bei Linux Mint vorinstalliert, die anderen Versionen gibt es [hier](https://warpinator.com/){:target="_blank"}. 
 
